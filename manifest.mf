@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Zofia Sobocinska
+Main-Class: colorophone.Colorophone
+
